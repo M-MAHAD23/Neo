@@ -1,3 +1,3 @@
-Nemo extends Neo {
+Nemo extends Neo extends Matrix {
   Acheivement file.
 }
